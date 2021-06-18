@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Vortex",
+			"path": "..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\Vortex"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tpp": "c",
+			"mstimer2.h": "c"
+		}
+	}
+}
